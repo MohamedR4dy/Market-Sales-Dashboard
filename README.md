@@ -3,6 +3,9 @@
 ## Overview
 The Market Sales Dashboard is a comprehensive analytical tool designed to provide detailed insights into sales performance. By transforming flat file data into a star schema, the dashboard optimizes data management and enhances query performance. The intuitive design and real-time data updates make it an essential tool for data-driven decision-making.
 
+![Home Page](https://github.com/MohamedR4dy/Market-Sales-Dashboard/blob/main/Home%20Page.png)
+
+
 ## Key Features
 - **Overall Sales Metrics**
   - Orders: 1.5K
