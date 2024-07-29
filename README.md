@@ -52,5 +52,6 @@ The Market Sales Dashboard is an essential tool for organizations aiming to opti
 
 ## Access the Dashboard
 You can view the interactive Sales Dashboard on NovyPro: [Market Sales Dashboard](https://project.novypro.com/riycbh)
+- **LinkedIn Post about the Project:** [LinkedIn](https://www.linkedin.com/posts/mohamed-roshdy-kharboush_market-sales-dashboard-activity-7223788566487683072-2Ne6?utm_source=share&utm_medium=member_desktop)
 
 
