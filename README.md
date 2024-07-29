@@ -5,7 +5,7 @@ The Market Sales Dashboard is a comprehensive analytical tool designed to provid
 
 ![Home Page](https://github.com/MohamedR4dy/Market-Sales-Dashboard/blob/main/Home%20Page.png)
 
-
+![Orders Page](https://github.com/MohamedR4dy/Market-Sales-Dashboard/blob/main/Orders%20Page.png)
 ## Key Features
 - **Overall Sales Metrics**
   - Orders: 1.5K
@@ -35,9 +35,11 @@ The Market Sales Dashboard is a comprehensive analytical tool designed to provid
 
 - **Order Details by Year**
   - Pie chart displaying the distribution of order details across different years (2011-2013), highlighting the volume of orders in each year.
+![Slicers Page](https://github.com/MohamedR4dy/Market-Sales-Dashboard/blob/main/Silcers%20Page.png)
 
 ## Data Transformation
 The initial data was provided in a flat file format. To optimize for performance and analysis, the data was transformed into a star schema structure. This involved creating fact and dimension tables, ensuring efficient data retrieval and improving the dashboard's responsiveness.
+![Star Schema Page](https://github.com/MohamedR4dy/Market-Sales-Dashboard/blob/main/Star%20Schema.png)
 
 ## Benefits
 - **Real-Time Insights**: Regularly refreshed to provide up-to-date information.
