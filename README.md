@@ -51,7 +51,7 @@ The initial data was provided in a flat file format. To optimize for performance
 The Market Sales Dashboard is an essential tool for organizations aiming to optimize their sales operations. It helps in identifying trends, monitoring performance, and making informed decisions to drive growth and efficiency.
 
 ## Access the Dashboard
-- **You can view the interactive Sales Dashboard on NovyPro:** [Market Sales Dashboard](https://project.novypro.com/riycbh)
+- **You can view the interactive Sales Dashboard on NovyPro:** [Market Sales Dashboard](https://project.novypro.com/sxE5xa)
 - **LinkedIn Post about the Project:** [LinkedIn](https://www.linkedin.com/posts/mohamed-roshdy-kharboush_market-sales-dashboard-activity-7223788566487683072-2Ne6?utm_source=share&utm_medium=member_desktop)
 
 
